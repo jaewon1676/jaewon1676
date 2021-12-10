@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> &nbsp
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewon1676&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewon1676&show_icons=true&theme=react)
 
 <!--
 **jaewon1676/jaewon1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

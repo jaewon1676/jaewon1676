@@ -1,21 +1,12 @@
-# ▎ Hi 👋
+# ▎ Hi 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewon1676&show_icons=true&theme=react)
 
-# ▎Primary Tech Stacks
+# ▎ I Learning...
 - Front-end : 
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
-
-- Deployment :
-<span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span><br/>
- 
-- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-
-
-
 
 
 <!--
